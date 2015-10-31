@@ -606,6 +606,10 @@ main {
       fill: #727374; }
     .site-footer .ripcord:hover svg, .site-footer .ripcord:focus svg {
       fill: #fff; }
+  .site-footer .copyright a {
+    color: #727374; }
+    .site-footer .copyright a:hover, .site-footer .copyright a:focus {
+      color: #fff; }
 
 .site-footer-left {
   display: block;
