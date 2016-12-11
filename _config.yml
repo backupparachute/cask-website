@@ -1,0 +1,12 @@
+gems:
+  - jekyll-sitemap
+
+# Outputting
+permalink: pretty
+
+# custom vars
+# excerpt: Simplify. Integrate. Track.  Simplify electronic proof of delivery (ePod), Integrate with existing systems easily, streamline vehicle transportation tracking,
+excerpt: DISCOVER THE OLD, TRY THE NEW
+
+url: http://caskapp.com
+handle: @caskapp
